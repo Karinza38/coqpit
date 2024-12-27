@@ -1,4 +1,4 @@
-# 👩‍✈️ Coqpit
+👩‍✈️ Coqpit
 
 [![CI](https://github.com/coqui-ai/coqpit/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/coqui-ai/coqpit/actions/workflows/main.yml)
 
